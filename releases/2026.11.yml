@@ -1,0 +1,22 @@
+# Structured release notes. In a real setup these would be generated from the
+# release tickets or changelog; here they are written by hand for the demo.
+release: "2026.11"
+date: 2026-11-03
+changes:
+  - id: REL-101
+    type: rename
+    area: call_routing
+    summary: "'Call flows' is now called 'Routing rules'. Same feature, new name and new menu position."
+    affects_docs: [call-routing, getting-started]
+  - id: REL-102
+    type: limit_change
+    area: voicemail
+    summary: "Maximum voicemail length increased from 3 to 5 minutes."
+    affects_docs: [voicemail]
+  - id: REL-103
+    type: new_feature
+    area: analytics
+    summary: "New Insights dashboard replaces the Reports tab and adds a missed-call trend."
+    affects_docs: [getting-started]
+    needs_new_doc: true
+    new_doc_slug: insights   # the finding clears once a doc with this slug exists
