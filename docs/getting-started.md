@@ -1,7 +1,7 @@
 ---
 title: Getting started with Acme Voice
 slug: getting-started
-last_verified_release: "2026.10"
+last_verified_release: "2026.11"
 owner: support
 ---
 
@@ -22,3 +22,4 @@ Open **Voicemail** and choose a greeting. See [Voicemail](voicemail.md).
 ## 3. Check how your team is doing
 
 Open **Insights** to see call volume per agent and the missed-call trend.
+See [Insights dashboard](insights.md).

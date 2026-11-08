@@ -1,7 +1,7 @@
 ---
 title: Set up call routing
 slug: call-routing
-last_verified_release: "2026.10"
+last_verified_release: "2026.11"
 owner: support
 ---
 
