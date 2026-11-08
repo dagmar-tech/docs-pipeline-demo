@@ -17,5 +17,4 @@ When nobody answers, callers can leave a voicemail.
 
 Voicemail messages can be up to 5 minutes long. Longer messages are cut off.
 
-Need to change what happens before voicemail? See [call routing](call-routing.md)
-and the [number porting guide](number-porting.md).
+Need to change what happens before voicemail? See [call routing](call-routing.md).
