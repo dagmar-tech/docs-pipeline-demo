@@ -7,7 +7,8 @@ owner: support
 
 # Set up call routing
 
-Call flows decide which agent or group answers an incoming call.
+Routing rules decide which agent or group answers an incoming call.
+(Formerly Call flows.)
 
 ## Before you start
 
@@ -15,8 +16,8 @@ You need the Admin role.
 
 ## Steps
 
-1. Open **Call flows** in the main menu.
-2. Select **New flow** and give it a name.
+1. Open **Routing rules** in the main menu.
+2. Select **New rule** and give it a name.
 3. Add the agents or groups that should ring.
 4. Set how long the phone rings. Phones can ring for up to 60 seconds.
 5. Save and select **Publish**.
