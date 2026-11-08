@@ -1,0 +1,28 @@
+# Single source of truth for product facts (fictional product: Acme Voice).
+# Docs, drift checks and any AI assistant answering questions should read from here.
+product: Acme Voice
+current_release: "2026.10"
+
+ui_labels:
+  call_routing: "Call flows"
+  voicemail: "Voicemail"
+  analytics: "Reports"
+
+limits:
+  voicemail_max_minutes: 3
+  ring_timeout_max_seconds: 60
+
+# Terms that were renamed or removed. Any doc still using them is stale.
+deprecated_terms: []
+
+# Hard-coded values that docs are allowed to state, checked by regex.
+# The first capture group is compared with `expected`.
+value_checks:
+  - id: voicemail_max_minutes
+    description: "Maximum voicemail length"
+    regex: "voicemail[^.\\n]*?(\\d+)\\s*minutes?"
+    expected: 3
+  - id: ring_timeout_max_seconds
+    description: "Maximum ring timeout"
+    regex: "ring[^.\\n]*?up to (\\d+)\\s*seconds?"
+    expected: 60

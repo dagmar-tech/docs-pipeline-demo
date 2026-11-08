@@ -1,0 +1,114 @@
+ticket_id,created,topic,channel
+T-0037,2026-10-02,Voicemail length,chat
+T-0042,2026-10-02,Voicemail length,email
+T-0043,2026-10-02,Voicemail length,chat
+T-0081,2026-10-02,Call recording,email
+T-0011,2026-10-04,Call flows / routing rules setup,email
+T-0009,2026-10-05,Call flows / routing rules setup,email
+T-0084,2026-10-06,Call recording,email
+T-0058,2026-10-07,Number porting,email
+T-0005,2026-10-08,Call flows / routing rules setup,chat
+T-0044,2026-10-08,Voicemail length,chat
+T-0061,2026-10-08,Number porting,email
+T-0066,2026-10-08,Number porting,chat
+T-0079,2026-10-08,Call recording,email
+T-0092,2026-10-08,User roles and permissions,chat
+T-0067,2026-10-10,Number porting,email
+T-0010,2026-10-11,Call flows / routing rules setup,chat
+T-0068,2026-10-11,Number porting,chat
+T-0082,2026-10-13,Call recording,email
+T-0039,2026-10-14,Voicemail length,chat
+T-0041,2026-10-14,Voicemail length,chat
+T-0064,2026-10-14,Number porting,chat
+T-0065,2026-10-14,Number porting,email
+T-0063,2026-10-15,Number porting,email
+T-0001,2026-10-16,Call flows / routing rules setup,email
+T-0003,2026-10-16,Call flows / routing rules setup,email
+T-0060,2026-10-16,Number porting,email
+T-0007,2026-10-17,Call flows / routing rules setup,email
+T-0045,2026-10-17,Voicemail length,email
+T-0085,2026-10-17,Call recording,email
+T-0105,2026-10-17,Insights dashboard,email
+T-0059,2026-10-19,Number porting,chat
+T-0094,2026-10-19,User roles and permissions,chat
+T-0038,2026-10-20,Voicemail length,chat
+T-0008,2026-10-21,Call flows / routing rules setup,chat
+T-0014,2026-10-21,Call flows / routing rules setup,email
+T-0083,2026-10-21,Call recording,email
+T-0097,2026-10-21,User roles and permissions,chat
+T-0013,2026-10-22,Call flows / routing rules setup,chat
+T-0080,2026-10-22,Call recording,chat
+T-0095,2026-10-23,User roles and permissions,email
+T-0093,2026-10-25,User roles and permissions,email
+T-0062,2026-10-26,Number porting,chat
+T-0006,2026-10-27,Call flows / routing rules setup,email
+T-0012,2026-10-27,Call flows / routing rules setup,email
+T-0002,2026-10-29,Call flows / routing rules setup,email
+T-0004,2026-10-29,Call flows / routing rules setup,email
+T-0040,2026-10-29,Voicemail length,email
+T-0096,2026-10-30,User roles and permissions,email
+T-0056,2026-11-01,Voicemail length,chat
+T-0075,2026-11-01,Number porting,email
+T-0021,2026-11-02,Call flows / routing rules setup,chat
+T-0100,2026-11-02,User roles and permissions,email
+T-0020,2026-11-03,Call flows / routing rules setup,chat
+T-0051,2026-11-03,Voicemail length,email
+T-0078,2026-11-03,Number porting,chat
+T-0108,2026-11-03,Insights dashboard,chat
+T-0072,2026-11-04,Number porting,chat
+T-0099,2026-11-04,User roles and permissions,chat
+T-0054,2026-11-05,Voicemail length,chat
+T-0073,2026-11-05,Number porting,chat
+T-0086,2026-11-05,Call recording,email
+T-0088,2026-11-05,Call recording,email
+T-0087,2026-11-06,Call recording,email
+T-0049,2026-11-07,Voicemail length,email
+T-0069,2026-11-07,Number porting,chat
+T-0091,2026-11-08,Call recording,email
+T-0109,2026-11-08,Insights dashboard,email
+T-0032,2026-11-09,Call flows / routing rules setup,email
+T-0050,2026-11-09,Voicemail length,email
+T-0101,2026-11-09,User roles and permissions,chat
+T-0113,2026-11-09,Insights dashboard,chat
+T-0025,2026-11-11,Call flows / routing rules setup,email
+T-0035,2026-11-11,Call flows / routing rules setup,chat
+T-0052,2026-11-11,Voicemail length,chat
+T-0076,2026-11-11,Number porting,email
+T-0070,2026-11-13,Number porting,email
+T-0077,2026-11-13,Number porting,chat
+T-0103,2026-11-13,User roles and permissions,email
+T-0047,2026-11-14,Voicemail length,chat
+T-0053,2026-11-14,Voicemail length,chat
+T-0098,2026-11-14,User roles and permissions,chat
+T-0104,2026-11-14,User roles and permissions,email
+T-0015,2026-11-15,Call flows / routing rules setup,email
+T-0031,2026-11-15,Call flows / routing rules setup,email
+T-0057,2026-11-15,Voicemail length,email
+T-0074,2026-11-15,Number porting,email
+T-0029,2026-11-16,Call flows / routing rules setup,chat
+T-0027,2026-11-17,Call flows / routing rules setup,chat
+T-0036,2026-11-17,Call flows / routing rules setup,email
+T-0106,2026-11-17,Insights dashboard,chat
+T-0033,2026-11-18,Call flows / routing rules setup,chat
+T-0110,2026-11-18,Insights dashboard,email
+T-0026,2026-11-19,Call flows / routing rules setup,chat
+T-0048,2026-11-19,Voicemail length,email
+T-0018,2026-11-20,Call flows / routing rules setup,chat
+T-0023,2026-11-20,Call flows / routing rules setup,chat
+T-0112,2026-11-20,Insights dashboard,chat
+T-0017,2026-11-21,Call flows / routing rules setup,chat
+T-0028,2026-11-21,Call flows / routing rules setup,email
+T-0071,2026-11-21,Number porting,email
+T-0030,2026-11-22,Call flows / routing rules setup,chat
+T-0034,2026-11-23,Call flows / routing rules setup,email
+T-0046,2026-11-23,Voicemail length,email
+T-0055,2026-11-23,Voicemail length,chat
+T-0016,2026-11-24,Call flows / routing rules setup,email
+T-0102,2026-11-24,User roles and permissions,email
+T-0024,2026-11-25,Call flows / routing rules setup,email
+T-0019,2026-11-27,Call flows / routing rules setup,email
+T-0090,2026-11-27,Call recording,email
+T-0111,2026-11-28,Insights dashboard,email
+T-0022,2026-11-29,Call flows / routing rules setup,chat
+T-0089,2026-11-30,Call recording,chat
+T-0107,2026-11-30,Insights dashboard,email

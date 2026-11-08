@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Generated output. The GitHub Action uploads the report as an artifact.
+reports/*
+drafts/*
+!reports/.gitkeep
+!drafts/.gitkeep
